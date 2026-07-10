@@ -1,0 +1,7 @@
+# Pinned per the lab
+mcp==1.16.0
+fastmcp==2.12.5
+
+# Testing (integration tests spawn the real server)
+pytest
+pytest-asyncio

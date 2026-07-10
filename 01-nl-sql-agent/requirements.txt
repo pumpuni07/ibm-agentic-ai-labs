@@ -1,0 +1,11 @@
+# Pinned per the guided project's install cell
+ibm-watsonx-ai==1.0.4
+ibm-watson-machine-learning==1.0.357
+langchain==0.2.1
+langchain-ibm==0.1.7
+langchain-experimental==0.0.59
+langchain-community
+mysql-connector-python==8.4.0
+
+# Testing (tests need only pytest — helpers are stdlib)
+pytest

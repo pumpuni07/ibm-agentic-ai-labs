@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.env
+apikey*
+credentials.json
+data/
+workspace/
+*.log
+test_output.txt
+.DS_Store
