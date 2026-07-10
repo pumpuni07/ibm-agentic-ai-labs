@@ -1,0 +1,9 @@
+# Pinned per the lab
+mcp==1.16.0
+fastmcp==2.12.5
+gradio==5.49.1
+openai==2.6.1
+
+# Testing (unit + live stdio integration; gradio/openai not needed for tests)
+pytest
+pytest-asyncio

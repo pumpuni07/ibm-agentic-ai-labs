@@ -9,12 +9,12 @@ Third repository in a portfolio trilogy: [`ibm-watsonx-genai-portfolio`](https:/
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 01 | [Natural Language SQL Agent](./01-nl-sql-agent/) | LangChain SQL agent · IBM Granite · MySQL/Chinook | ✅ Complete — 6 tests passing |
-| 02 | LangGraph Workflow Router | LangGraph · intent routing | 🚧 Planned (round 2/3) |
-| 03 | CrewAI NourishBot | CrewAI · Llama 4 vision · Gradio | 🚧 Planned (round 2/3) |
-| 04 | AG2 Healthcare Chatbot | AG2 (AutoGen) · GroupChat | 🚧 Planned (round 2/3) |
-| 05 | BeeAI Agent Systems | BeeAI · RequirementAgent · multi-agent | 🚧 Planned (round 2/3) |
+| 02 | [LangGraph Workflow Router](./02-langgraph-workflow-router/) | LangGraph · conditional edges · intent routing | ✅ Complete — 7 tests passing |
+| 03 | CrewAI NourishBot | CrewAI · Llama 4 vision · Gradio | 🚧 Planned (round 3) |
+| 04 | AG2 Healthcare Chatbot | AG2 (AutoGen) · GroupChat | 🚧 Planned (round 3) |
+| 05 | BeeAI Agent Systems | BeeAI · RequirementAgent · multi-agent | 🚧 Planned (round 3) |
 | 06 | [MCP Client + Server](./06-mcp-client-server/) | MCP SDK · FastMCP · STDIO transport | ✅ Complete — 10 real protocol tests |
-| 07 | MCP Security System | MCP · permissions · audit logging · GPT | 🚧 Planned (round 2/3) |
+| 07 | [MCP Security System](./07-mcp-security-system/) | MCP · permissions · audit logging · GPT | ✅ Complete — 11 tests passing |
 
 ## Themes
 

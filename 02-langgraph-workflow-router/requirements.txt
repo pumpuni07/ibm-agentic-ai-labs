@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+
+# Optional — live watsonx runs (USE_WATSONX=true)
+# langchain-ibm
+
+# Testing
+pytest
