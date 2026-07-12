@@ -10,9 +10,9 @@ Third repository in a portfolio trilogy: [`ibm-watsonx-genai-portfolio`](https:/
 |---|---------|-------|--------|
 | 01 | [Natural Language SQL Agent](./01-nl-sql-agent/) | LangChain SQL agent · IBM Granite · MySQL/Chinook | ✅ Complete — 6 tests passing |
 | 02 | [LangGraph Workflow Router](./02-langgraph-workflow-router/) | LangGraph · conditional edges · intent routing | ✅ Complete — 7 tests passing |
-| 03 | CrewAI NourishBot | CrewAI · Llama 4 vision · Gradio | 🚧 Planned (round 3) |
-| 04 | AG2 Healthcare Chatbot | AG2 (AutoGen) · GroupChat | 🚧 Planned (round 3) |
-| 05 | BeeAI Agent Systems | BeeAI · RequirementAgent · multi-agent | 🚧 Planned (round 3) |
+| 03 | [CrewAI NourishBot](./03-crewai-nourishbot/) | CrewAI · Llama 4 vision · Gradio | ✅ Complete — 8 tests passing |
+| 04 | [AG2 Healthcare Chatbot](./04-ag2-healthcare-chatbot/) | AG2 (AutoGen) · GroupChat | ✅ Complete — 4 tests passing |
+| 05 | [BeeAI Agent Systems](./05-beeai-agent-systems/) | BeeAI · RequirementAgent · ReAct · HandoffTool | ✅ Complete — 27 tests passing |
 | 06 | [MCP Client + Server](./06-mcp-client-server/) | MCP SDK · FastMCP · STDIO transport | ✅ Complete — 10 real protocol tests |
 | 07 | [MCP Security System](./07-mcp-security-system/) | MCP · permissions · audit logging · GPT | ✅ Complete — 11 tests passing |
 

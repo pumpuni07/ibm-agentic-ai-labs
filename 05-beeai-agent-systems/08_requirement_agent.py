@@ -1,0 +1,15 @@
+"""Step 8 — RequirementAgent: declarative control over tool usage."""
+from beeai_framework.agents.experimental import RequirementAgent
+from beeai_framework.tools.think import ThinkTool
+from core import SimpleCalculatorTool
+from importlib import import_module
+
+def build_agent() -> RequirementAgent:
+    make_chat_model = import_module("05_chat_model").make_chat_model
+    return RequirementAgent(
+        llm=make_chat_model(),
+        tools=[ThinkTool(), SimpleCalculatorTool()],
+    )
+
+if __name__ == "__main__":
+    print(type(build_agent()).__name__)
